@@ -16,7 +16,7 @@ The goal is to convert raw sales data into **clear business insights** using vis
 
 ## 🖼️ Dashboard Preview
 
-![Retail Sales Dashboard](./Screenshot 2026-04-21 190439.png)
+![Retail Sales Dashboard](./dashboard.png)
 
 ---
 
